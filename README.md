@@ -23,3 +23,4 @@ Deploy the services to a local Kubernetes cluster (e.g., Minikube or Kind).
 - README file with setup and execution instructions.
 
 **Github repo should be Public**
+# KubernatesProject
