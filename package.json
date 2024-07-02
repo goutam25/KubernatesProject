@@ -1,0 +1,18 @@
+{
+  "name": "qa-test",
+  "version": "1.0.0",
+  "description": "**Kubernetes Deployment:**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.39.0",
+    "chai": "^5.1.1",
+    "mocha": "^10.5.2",
+    "webdriverio": "^8.39.0"
+  }
+}
